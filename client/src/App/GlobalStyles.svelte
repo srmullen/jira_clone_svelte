@@ -67,7 +67,7 @@
   }
 
   button {
-    background: non;
+    background: none;
     border: none;
   }
 
